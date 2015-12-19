@@ -43,13 +43,12 @@ Operations	to	implement:-
 
 5. Best	route	(shorter)	to	visit	all	the	offices
 
-Expected	delivery
+Source	Code:-
 ----------------------
 - API	Design	(Paths,	methods and	input/output	parameters	for	every	operation)
 
-- Source	Code	including	unit	tests
+- including	unit	tests
 
-It	can	be	delivered	attached	to	an	email	or	with	a	link	to	a	repository.
 
 Resources
 
