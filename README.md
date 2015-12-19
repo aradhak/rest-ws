@@ -1,17 +1,10 @@
 # rest-ws
 Rest Webservice APIS example
 
-Introduction:-
---------------------
-allpago	is	looking	for	highly	skilled	Java	Developers.	The	technical	expertise	is	one	of	the	most		
 
-important characteristics	of	a	future	employee.	Because	of	that	allpago	requires	as	a	first	step	of	
-
-the	hiring	process	the	elaboration	of	a	simple	application.
-
-Exercise:-
+Objective:-
 -----------------
-The	exercise	consists	of developing a	simple	application	for	management	of	the	different	offices	of	a	
+Developing a	simple	application	for	management	of	the	different	offices	of	a	
 
 company.	This application	will	offer	a	REST	API	and	store	the	information	into	a	DB.
 
