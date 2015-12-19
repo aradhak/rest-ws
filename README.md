@@ -8,9 +8,7 @@ Developing a	simple	application	for	management	of	the	different	offices	of	a
 
 company.	This application	will	offer	a	REST	API	and	store	the	information	into	a	DB.
 
-It	can	be	use	any	framework	for	REST	APIs, any	relational	DB	and	any	Java	runtime	environment	/	
-
-application	server
+(Used Jersey	framework	for	REST	APIs)
 
 Information	for	every	office:-
 ---------------------------------
