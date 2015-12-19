@@ -50,8 +50,8 @@ Source	Code:-
 - including	unit	tests
 
 
-Resources
-
+Resources:-
+------------
 You	can	use	Google	Maps	API:	https://developers.google.com/maps/documentation/webservices/
 
 for	getting	the	time	zone	as	well	as	calculating	distances
